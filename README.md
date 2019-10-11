@@ -10,7 +10,8 @@ information/content if you can.
 
 Disclaimer: 
 In case you find any mistake in the document, kindly inform me about the same. I will be very thankful to you 
-for the same. I am available on the email: raviprabhashankarpr@gmail.com 
+for the same. The same goes with you finding a useful link or document. Feel free to write me. I am available
+on the email: raviprabhashankarpr@gmail.com 
 
 
 # -------------------------------- CONTENTS -------------------------------
