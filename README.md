@@ -29,7 +29,8 @@ Use suitable version of LaTeX that your system supports.
 
 # --------------------------- INSTRUCTIONS ------------------------------
 During updation of this file, if you find relevants files that may help in better understanding of the contents, please add it to the folder.
-Additionally, if there are weblinks with useful information, please add them to the section below named "REFERENCES" and enumerate them.
+Additionally, if there are weblinks with useful information, please add them to the section below named "REFERENCES" and enumerate them (you
+may also write to me or request to push).
 
 #  ---------------------------- REFERENCES -------------------------------
 1) 
